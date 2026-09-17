@@ -2,13 +2,6 @@
 
 Python coding test practice repository for job preparation.
 
-## Goal
-
-- First priority: LG CNS DX Engineer coding test preparation
-- Coverage: SI, financial IT, backend, cloud, service, and mobile developer coding tests
-- Language: Python 3
-- Daily target: 3 problems on weekdays
-
 ## Study Rule
 
 - Solve with `.py` files first.
