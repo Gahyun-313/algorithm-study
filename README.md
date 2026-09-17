@@ -16,7 +16,8 @@ Python coding test practice repository for job preparation.
 ├── README.md
 ├── docs/
 │   ├── coding-test-roadmap.md
-│   └── wrong-answer-note-template.md
+│   ├── wrong-answer-note-template.md
+│   └── commit-convention.md
 ├── problems/
 │   ├── baekjoon/
 │   ├── programmers/
@@ -55,3 +56,4 @@ if __name__ == "__main__":
 2. Add explanation and wrong-answer notes to the PR body.
 3. Include time complexity and space complexity.
 4. Mention whether the problem should be solved again.
+5. Follow `docs/commit-convention.md` for commit messages (not `feat`/`fix` — use `solve`/`resolve`/`note`/`refactor`/`chore`).
