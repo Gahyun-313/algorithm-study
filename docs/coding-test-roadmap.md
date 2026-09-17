@@ -1,14 +1,5 @@
 # Python 코딩테스트 종합 로드맵
 
-1지망은 LG CNS DX Engineer 기준으로 잡고, SI, 금융 IT, 제조/모빌리티, Android/모바일, Backend/Cloud 기업까지 커버하는 준비 계획이다.
-
-## 목표
-
-- 1순위 목표: LG CNS 코딩테스트에서 기본 구현, 자료구조, 탐색, 시뮬레이션 문제를 안정적으로 맞히기
-- 커버 목표: 삼성SDS, 롯데이노베이트, POSCO DX, DB Inc., 금융 IT 계열, NHN/서비스 기업, Java/Spring Backend 및 Android 직무의 일반 코딩테스트 난이도까지 대응
-- 언어: Python 3
-- 풀이 기준: 정답만 맞히는 것보다 시간복잡도 설명, 예외 케이스 점검, 깔끔한 구현까지 한 세트로 연습
-
 ## .py와 Jupyter Notebook 기준
 
 코딩테스트 준비는 `.py` 파일 중심이 일반적이다.
